@@ -1,0 +1,15 @@
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Asserts.Tests.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Asserts.Tests.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\obj\Debug\Asserts.Tests.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\obj\Debug\Asserts.Tests.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\obj\Debug\Asserts..DB596081.Up2Date
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\obj\Debug\Asserts.Tests.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\Asserts\Asserts.Tests\obj\Debug\Asserts.Tests.pdb
