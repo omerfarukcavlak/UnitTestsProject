@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\bin\Debug\Helpers.exe.config
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\bin\Debug\Helpers.exe
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\bin\Debug\Helpers.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\obj\Debug\Helpers.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\obj\Debug\Helpers.exe
+C:\Users\CAVLAK\Desktop\Projects\UnitTestIntroduction\Helpers\obj\Debug\Helpers.pdb
