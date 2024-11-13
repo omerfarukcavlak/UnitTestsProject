@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2087C2E-A026-4C0E-966F-518E5E25768E}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestprojects\\testlevel\\shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2087C2E-A026-4C0E-966F-518E5E25768E}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|solutionrelative:shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EEA82E-DB16-4DC0-BAB0-E42B982A9209}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\shoppingcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EEA82E-DB16-4DC0-BAB0-E42B982A9209}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9EEA82E-DB16-4DC0-BAB0-E42B982A9209}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9EEA82E-DB16-4DC0-BAB0-E42B982A9209}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart.Tests\\CartTests.cs",
+              "RelativeDocumentMoniker": "ShoppingCart.Tests\\CartTests.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart.Tests\\CartTests.cs",
+              "RelativeToolTip": "ShoppingCart.Tests\\CartTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:13:42.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart\\Program.cs",
+              "RelativeToolTip": "ShoppingCart\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:23:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart\\CartItem.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\CartItem.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestProjects\\TestLevel\\ShoppingCart\\CartItem.cs",
+              "RelativeToolTip": "ShoppingCart\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:59:38.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
