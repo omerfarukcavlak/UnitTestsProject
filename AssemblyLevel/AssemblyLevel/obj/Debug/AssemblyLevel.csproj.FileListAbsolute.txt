@@ -1,0 +1,16 @@
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\AssemblyLevel.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\AssemblyLevel.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\obj\Debug\AssemblyLevel.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\obj\Debug\AssemblyLevel.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\obj\Debug\Assembly.634D9725.Up2Date
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\obj\Debug\AssemblyLevel.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\obj\Debug\AssemblyLevel.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestProjects\AssemblyLevel\AssemblyLevel\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
