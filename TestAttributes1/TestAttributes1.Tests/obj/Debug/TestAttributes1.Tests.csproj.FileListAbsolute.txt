@@ -1,0 +1,15 @@
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\TestAttributes1.Tests.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\TestAttributes1.Tests.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\obj\Debug\TestAttributes1.Tests.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\obj\Debug\TestAttributes1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\obj\Debug\TestAttr.618C9870.Up2Date
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\obj\Debug\TestAttributes1.Tests.dll
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\TestAttributes1\TestAttributes1.Tests\obj\Debug\TestAttributes1.Tests.pdb
