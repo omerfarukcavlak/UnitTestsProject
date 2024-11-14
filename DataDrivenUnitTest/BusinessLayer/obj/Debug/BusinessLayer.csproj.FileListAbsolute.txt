@@ -1,0 +1,7 @@
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\CAVLAK\Desktop\Projects\UnitTestsProjects\DataDrivenUnitTest\BusinessLayer\obj\Debug\BusinessLayer.pdb

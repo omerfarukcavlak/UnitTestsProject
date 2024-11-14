@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User name="Ömer Faruk" phone="123456789" mail="omer@mail.com"/>
+  <User name="Halil" phone="234567891" mail="halil@mail.com"/>
+  <User name="Recep" phone="345678912" mail="recep@mail.com"/>
+  <User name="Timur Kağan" phone="456789123" mail="timur@mail.com"/>
+  <User name="Yusuf" phone="567891234" mail="yusuf@mail.com"/>
+  <User name="Eren" phone="678912345" mail="eren@mail.com"/>
+  <User name="Egemen" phone="789123456" mail="egemen@mail.com"/>
+  <User name="Yasin" phone="891234567" mail="yasin@mail.com"/>
+
+</Users>
