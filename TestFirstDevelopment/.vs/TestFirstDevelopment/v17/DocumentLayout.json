@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\demo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|solutionrelative:demo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06BA3FB9-542C-4BCC-BF72-F10BACF149EB}|Demo.Tests\\Demo.Tests.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\testfirstdevelopment\\demo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06BA3FB9-542C-4BCC-BF72-F10BACF149EB}|Demo.Tests\\Demo.Tests.csproj|solutionrelative:demo.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\testfirstdevelopment\\demo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|solutionrelative:demo\\gruplayici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\testfirstdevelopment\\demo\\olcum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\demo\\olcum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|solutionrelative:demo\\olcum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\testfirstdevelopment\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D998E9E-5082-4589-8457-3192E07289FF}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Gruplayici.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\Demo\\Gruplayici.cs",
-              "RelativeDocumentMoniker": "Demo\\Gruplayici.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\Demo\\Gruplayici.cs",
-              "RelativeToolTip": "Demo\\Gruplayici.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:36:00.968Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -55,12 +42,24 @@
               "RelativeToolTip": "Demo\\Olcum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:35:41.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T18:35:41.035Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Gruplayici.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\Demo\\Gruplayici.cs",
+              "RelativeDocumentMoniker": "Demo\\Gruplayici.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\Demo\\Gruplayici.cs",
+              "RelativeToolTip": "Demo\\Gruplayici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:36:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\TestFirstDevelopment\\Demo.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Demo.Tests\\UnitTest1.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "Demo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T18:28:01.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T18:28:01.582Z"
             }
           ]
         }

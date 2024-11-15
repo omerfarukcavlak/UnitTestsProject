@@ -14,7 +14,10 @@ namespace Demo
 
         public List<List<Olcum>> Grupla(List<Olcum> olcumler)
         {
-            throw new NotImplementedException();
+           var gruplar = new List<List<Olcum>>();
+            gruplar.Add(olcumler);
+
+            return gruplar;
         }
     }
 }
