@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\",
+  "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{539848A7-79A0-4EF4-80D1-ED9E22276BF7}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|c:\\users\\cavlak\\source\\repos\\classlevel\\shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{539848A7-79A0-4EF4-80D1-ED9E22276BF7}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\classlevel\\shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{539848A7-79A0-4EF4-80D1-ED9E22276BF7}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|solutionrelative:shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\cavlak\\source\\repos\\classlevel\\shoppingcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\shoppingcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\cavlak\\source\\repos\\classlevel\\shoppingcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\shoppingcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\cavlak\\source\\repos\\classlevel\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CartTests.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart.Tests\\CartTests.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart.Tests\\CartTests.cs",
               "RelativeDocumentMoniker": "ShoppingCart.Tests\\CartTests.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart.Tests\\CartTests.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart.Tests\\CartTests.cs",
               "RelativeToolTip": "ShoppingCart.Tests\\CartTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T13:44:39.174Z",
               "EditorCaption": ""
@@ -49,40 +49,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\CartItem.cs",
               "RelativeDocumentMoniker": "ShoppingCart\\CartItem.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\CartItem.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\CartItem.cs",
               "RelativeToolTip": "ShoppingCart\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:40:40.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:40:40.431Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CartManager.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\CartManager.cs",
               "RelativeDocumentMoniker": "ShoppingCart\\CartManager.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\CartManager.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\CartManager.cs",
               "RelativeToolTip": "ShoppingCart\\CartManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:40:10.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:40:10.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\Program.cs",
               "RelativeDocumentMoniker": "ShoppingCart\\Program.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\source\\repos\\ClassLevel\\ShoppingCart\\Program.cs",
+              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ClassLevel\\ShoppingCart\\Program.cs",
               "RelativeToolTip": "ShoppingCart\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T13:24:10.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T13:24:10.603Z"
             }
           ]
         }

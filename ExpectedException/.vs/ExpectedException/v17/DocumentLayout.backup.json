@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ExpectedException\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{539848A7-79A0-4EF4-80D1-ED9E22276BF7}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\expectedexception\\shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{539848A7-79A0-4EF4-80D1-ED9E22276BF7}|ShoppingCart.Tests\\ShoppingCart.Tests.csproj|solutionrelative:shoppingcart.tests\\carttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|c:\\users\\cavlak\\desktop\\projects\\unittestsprojects\\expectedexception\\shoppingcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBE354A5-5A97-493B-A8E7-C12AA08AD31E}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartManager.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ExpectedException\\ShoppingCart\\CartManager.cs",
-              "RelativeDocumentMoniker": "ShoppingCart\\CartManager.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ExpectedException\\ShoppingCart\\CartManager.cs",
-              "RelativeToolTip": "ShoppingCart\\CartManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:29:51.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartTests.cs",
-              "DocumentMoniker": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ExpectedException\\ShoppingCart.Tests\\CartTests.cs",
-              "RelativeDocumentMoniker": "ShoppingCart.Tests\\CartTests.cs",
-              "ToolTip": "C:\\Users\\CAVLAK\\Desktop\\Projects\\UnitTestsProjects\\ExpectedException\\ShoppingCart.Tests\\CartTests.cs",
-              "RelativeToolTip": "ShoppingCart.Tests\\CartTests.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T15:26:33.409Z",
-              "EditorCaption": ""
             }
           ]
         }
